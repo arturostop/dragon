@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Execute cowsay program with a dragon
+/usr/games/./cowsay -f dragon $@
+
