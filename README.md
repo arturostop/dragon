@@ -3,7 +3,7 @@ Create an ASCII image of a dragon from cowsay program, with arguments as a messa
 
 ## Deploy
 ```
-docker run dragon:1.0 say something
+docker run dragon:1.0 dragon say something
 ```
 
 ![dragon](https://user-images.githubusercontent.com/22846310/192115090-eb25d185-20fe-43be-a179-ae125b3cecdf.png)
